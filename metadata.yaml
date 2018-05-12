@@ -1,0 +1,35 @@
+_repo: The-Trail-of-the-Hawk--A-Comedy-of-the-Seriousness-of-Life_26610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    alias: Lewis, Harry Sinclair
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: http://en.wikipedia.org/wiki/Sinclair_Lewis
+description: Go to top; Part I. THE ADVENTURE OF YOUTH; -I-; -II-; -III-; -IV-; -V-;
+  -VI-; -VII-; -VIII-; -IX-; -X-; -XI-; -XII-; Part II. THE ADVENTURE OF ADVENTURING;
+  -XIII-; -XIV-; -XV-; -XVI-; -XVII-; -XVIII-; -XIX-; -XX-; -XXI-; -XXII-; -XXIII-;
+  Part III. THE ADVENTURE OF LOVE; -XXIV-; -XXV-; -XXVI-; -XXVII-; -XXVIII-; -XXIX-;
+  -XXX-; -XXXI-; -XXXII-; -XXXIII-; -XXXIV-; -XXXV-; -XXXVI-; -XXXVII-; -XXXVIII-;
+  -XXXIX-; -XL-; -XLI-; -XLII-; Sinclair Lewis Biography.
+gutenberg_issued: '2008-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26610'
+  lccn: '15017979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Minnesota -- Fiction'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+title: 'The Trail of the Hawk: A Comedy of the Seriousness of Life'
+url: http://www.gutenberg.org/ebooks/26610
